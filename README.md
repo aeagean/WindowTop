@@ -30,9 +30,10 @@
 ![拖动效果演示](https://qthub.com/img/窗口置顶工具/拖动演示.gif)
 
 ## 下载
- 版本 | 下载 
- --- | ---
-1.0.0 | [WindowTop-setup-win64-v1.0.0.exe](https://github.com/aeagean/WindowTop/releases/download/v1.0.0/WindowTop-setup-win64-v1.0.0.exe)
+注意：确保文件的完整性，请进行文件哈希256校验。
+ 版本 | 下载 | 哈希256文件校验
+ --- | --- | ---
+1.0.0 | [WindowTop-setup-win64-v1.0.0.exe](https://github.com/aeagean/WindowTop/releases/download/v1.0.0/WindowTop-setup-win64-v1.0.0.exe) | 806ebaa18570424b234d160c9d66e2f2077f7b58b8977ab53bffb844f7209a26
 
 ## 注意事项：
 如果您是个人用户，您可以自由下载、使用、复制本软件而不需要向WindowTop付费。

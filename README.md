@@ -36,6 +36,8 @@ QQ交流群：499852237
  版本 | 下载 | 哈希256文件校验
  --- | --- | ---
 1.0.0 | [WindowTop-setup-win64-v1.0.0.exe](https://github.com/aeagean/WindowTop/releases/download/v1.0.0/WindowTop-setup-win64-v1.0.0.exe) | 806ebaa18570424b234d160c9d66e2f2077f7b58b8977ab53bffb844f7209a26
+1.0.1 | [WindowTop-setup-win64-v1.0.0.exe](https://github.com/aeagean/WindowOnTop/releases/download/1.0.1/WindowTop-setup-win64-v1.0.1.exe) | 42d864404a70e98f5047728a54450ccd966ee16a3927ae1bcaae107372e455dd
+1.1.0 | [WindowTop-setup-win64-v1.0.0.exe](https://github.com/aeagean/WindowOnTop/releases/download/1.1.0/WindowTop-setup-win64-v1.1.0.exe) | 4496957481aa534a2d20cf90010c045af8e2c4e64ffd1faa80c5e35b8b421766
 
 ## 注意事项：
 如果您是个人用户，您可以自由下载、使用、复制本软件而不需要向WindowTop付费。

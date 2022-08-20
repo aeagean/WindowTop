@@ -6,7 +6,11 @@
 3. 窗口透明度设置功能；
 4. 窗口自定义画中画功能；
 5. 简易笔记的功能；
-6. 白名单功能。
+6. 白名单功能；
+7. 获取窗口输入法状态功能。
+
+## 激活解锁全部功能
+* 请加QQ咨询：2962204228
 
 欢迎提意见和功能需求，还提供功能定制服务。  
 QQ交流群：499852237
@@ -44,6 +48,4 @@ QQ交流群：499852237
 1.4.0 | [WindowTop-setup-win64-v1.4.0.exe](https://github.com/aeagean/WindowOnTop/releases/download/1.4.0/WindowTop-setup-win64-v1.4.0.exe) | c2a6707e7d91af65637ceddfc7c3ddb33bfacc92dc74bfb44760aa790e1a9e4a
 
 ## 注意事项：
-如果您是个人用户，您可以自由下载、使用、复制本软件而不需要向WindowTop付费。
-如果您是企业用户，您使用本软件需要向WindowTop购买商业授权才能使用。
 具体内容请查看[License.txt](License.txt)文档。

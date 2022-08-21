@@ -37,6 +37,7 @@ QQ交流群：499852237
 ![拖动效果演示](https://qthub.com/img/窗口置顶工具/拖动演示-长版.gif)
 
 6. 输入法状态显示
+
 ![输入法状态显示](https://user-images.githubusercontent.com/20763914/185793023-03a1f4f8-99c5-4d12-8166-c22c5581827c.gif)
 
 ## 下载

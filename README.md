@@ -46,6 +46,7 @@ QQ交流群：499852237
 1.2.0 | WindowTop-setup-win64-v1.2.0.exe | e42b410db3a786ba791629dd3293aafdaa4a210d3d208b76a86d75bd022eaa02
 1.3.0 | WindowTop-setup-win64-v1.3.0.exe | 0ff2dcad0a5c023b6b3e0631edb6caf55849e4e87371c7980dad753e1122a34b
 1.4.0 | [WindowTop-setup-win64-v1.4.0.exe](https://github.com/aeagean/WindowOnTop/releases/download/1.4.0/WindowTop-setup-win64-v1.4.0.exe) | c2a6707e7d91af65637ceddfc7c3ddb33bfacc92dc74bfb44760aa790e1a9e4a
+2.0.0 | [WindowTop-setup-win64-v2.0.0.exe](https://github.com/aeagean/WindowTop/releases/download/v2.0.0/WindowTop-setup-win64-v2.0.0.exe) | 2986d555c08f5e75f8285346f40932eb937d16d2f9e12ac4de749cddf398dacf
 
 ## 注意事项：
 具体内容请查看[License.txt](License.txt)文档。

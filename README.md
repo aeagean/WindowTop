@@ -20,6 +20,14 @@
 欢迎提意见和功能需求，还提供功能定制服务。  
 QQ交流群：499852237
 
+## 下载
+注意：确保文件的完整性，请进行文件哈希256校验。    
+[下载最新版本](https://github.com/aeagean/WindowTop/releases/download/v2.3.0/WindowTop-setup-win64-v2.3.0.exe)  
+[版本列表](https://github.com/aeagean/WindowTop/releases)
+
+## 注意事项：
+具体内容请查看[License.txt](License.txt)文档。
+
 ## 演示
 1. 置顶
 
@@ -44,11 +52,3 @@ QQ交流群：499852237
 6. 输入法状态显示
 
 ![输入法状态显示](https://user-images.githubusercontent.com/20763914/185793023-03a1f4f8-99c5-4d12-8166-c22c5581827c.gif)
-
-## 下载
-注意：确保文件的完整性，请进行文件哈希256校验。    
-[下载最新版本](https://github.com/aeagean/WindowTop/releases/download/v2.3.0/WindowTop-setup-win64-v2.3.0.exe)  
-[版本列表](https://github.com/aeagean/WindowTop/releases)
-
-## 注意事项：
-具体内容请查看[License.txt](License.txt)文档。

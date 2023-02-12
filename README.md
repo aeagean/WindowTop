@@ -1,29 +1,25 @@
 # WindowTop窗口置顶工具
 &emsp;&emsp;一个Windows平台的窗口置顶工具。目前添加了以下功能：   
 
-1. 置顶窗口功能；
-2. 窗口穿透功能；
-3. 窗口透明度设置功能；
-4. 窗口自定义画中画功能；
-5. 简易笔记的功能；
-6. 白名单功能；
-7. 获取窗口输入法状态功能；
-8. 快捷截图功能；
-9. 全局快捷键功能。
+1. 置顶窗口功能
+2. 窗口穿透功能
+3. 窗口透明度设置功能
+4. 窗口自定义画中画功能
+5. 简易笔记的功能
+6. 白名单功能
+7. 获取窗口输入法状态功能
+8. 全局快捷键功能
+9. 截图贴图功能
 
-## 激活解锁全部功能
-* 请加QQ咨询：2962204228
+最新版本为v2.6.0, 最新版本在[微软商店下载](https://apps.microsoft.com/store/detail/window-top/9P62L5TT7FWL)，或微软商店搜索"window top"即可下载安装。  
+从v2.0.0开始需要购买专业版才能获取全功能，但不升级专业版也能使用基础的功能，如果想使用免费版可以使用v1.x.x版本[免费版v1.4.0](https://github.com/aeagean/WindowTop/releases/download/v1.4.0/WindowTop-setup-win64-v1.4.0.exe)  
+点击查看v2版本[专业版与免费版](https://github.com/aeagean/WindowTop/blob/master/PRO.md)的区别吧。
 
-## 已上架微软商城
-搜索"window top"即可下载安装
-
-欢迎提意见和功能需求，还提供功能定制服务。  
+欢迎提[意见和功能需求](https://github.com/aeagean/WindowTop/issues)。  
 QQ交流群：499852237
 
-## 下载
-注意：确保文件的完整性，请进行文件哈希256校验。    
-[下载最新版本](https://github.com/aeagean/WindowTop/releases/download/v2.3.0/WindowTop-setup-win64-v2.3.0.exe)  
-[版本列表](https://github.com/aeagean/WindowTop/releases)
+## 旧版本下载
+[版本列表](https://github.com/aeagean/WindowTop/releases)  
 
 ## 注意事项：
 具体内容请查看[License.txt](License.txt)文档。
